@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "I:\\BaiduNetdiskDownload\\Test1\\VolleyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\BaiduNetdiskDownload\\Test1\\VolleyDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\BaiduNetdiskDownload\\Test1\\VolleyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\actvity_imager_list.xml",
+        "source": "I:\\BaiduNetdiskDownload\\Test1\\VolleyDemo\\src\\main\\res\\layout\\actvity_imager_list.xml"
+    },
+    {
+        "merged": "I:\\BaiduNetdiskDownload\\Test1\\VolleyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_textdata.xml",
+        "source": "I:\\BaiduNetdiskDownload\\Test1\\VolleyDemo\\src\\main\\res\\layout\\activity_textdata.xml"
+    },
+    {
+        "merged": "I:\\BaiduNetdiskDownload\\Test1\\VolleyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imageviewdata.xml",
+        "source": "I:\\BaiduNetdiskDownload\\Test1\\VolleyDemo\\src\\main\\res\\layout\\activity_imageviewdata.xml"
+    },
+    {
+        "merged": "I:\\BaiduNetdiskDownload\\Test1\\VolleyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\image_items.xml",
+        "source": "I:\\BaiduNetdiskDownload\\Test1\\VolleyDemo\\src\\main\\res\\layout\\image_items.xml"
+    }
+]

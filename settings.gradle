@@ -1,0 +1,7 @@
+include ':app', ':SlidingMenu_library', ':RefreshListView', ':AndroidAndJs', ':VolleyDemo'
+include ':ViewPagerIndicator_library'
+include ':ViewPagerIndicator_sample'
+include ':PullToRefresh_library'
+include ':pullToRefreshListFragment'
+include ':pullToRefreshViewPager'
+include ':PullToRefresh_sample'

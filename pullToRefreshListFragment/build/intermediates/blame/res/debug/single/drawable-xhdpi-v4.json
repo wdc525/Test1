@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "I:\\BaiduNetdiskDownload\\Test1\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "I:\\BaiduNetdiskDownload\\Test1\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "I:\\BaiduNetdiskDownload\\Test1\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "I:\\BaiduNetdiskDownload\\Test1\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "I:\\BaiduNetdiskDownload\\Test1\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "I:\\BaiduNetdiskDownload\\Test1\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    }
+]

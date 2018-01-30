@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.TextAppearance.AppCompat.Button">
+        <item name="android:textSize">@dimen/abc_text_size_button_material</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Platform.AppCompat" parent="Platform.V14.AppCompat"/>
+    <style name="Platform.AppCompat.Light" parent="Platform.V14.AppCompat.Light"/>
+    <style name="Platform.V14.AppCompat" parent="Platform.V11.AppCompat">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="Platform.V14.AppCompat.Light" parent="Platform.V11.AppCompat.Light">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.AppCompat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.StatusBar.EventContent.Info"/>
+    <style name="TextAppearance.StatusBar.EventContent.Line2">
+        <item name="android:textSize">@dimen/notification_subtext_size</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Time"/>
+    <style name="TextAppearance.StatusBar.EventContent.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@android:color/holo_red_dark</item>
+        <item name="android:maxLines">1</item>
+    </style>
+</resources>

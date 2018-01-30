@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "I:\\BaiduNetdiskDownload\\Test1\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "I:\\BaiduNetdiskDownload\\Test1\\PullToRefresh_sample\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "I:\\BaiduNetdiskDownload\\Test1\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "I:\\BaiduNetdiskDownload\\Test1\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "I:\\BaiduNetdiskDownload\\Test1\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "I:\\BaiduNetdiskDownload\\Test1\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    }
+]
